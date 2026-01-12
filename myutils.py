@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  3 14:22:06 2026
-
-@author: Alexis
-"""
 from sklearn.feature_extraction.text import TfidfVectorizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import Tokenizer

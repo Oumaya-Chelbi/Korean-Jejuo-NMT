@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  9 20:14:02 2026
-
-@author: Alexis
-"""
-
 import re
 from nltk.translate.bleu_score import corpus_bleu, sentence_bleu
 

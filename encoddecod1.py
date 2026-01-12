@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  3 14:22:27 2026
-
-@author: Alexis
-"""
 import pickle
 import tensorflow as tf
 import numpy as np
